@@ -1,3 +1,6 @@
+body {
+    background-color: blueviolet;
+}
 #container{
    margin: 0 auto;
     background-color: blue;
@@ -13,9 +16,14 @@
 #survey-form{
     padding: 20px;
 }
-input{
+
+#name, #email, #number, #dropdown, #submit, #comment {
     width: 100%;
 }
-#submit{
-    
+
+#submit {
+    background-color: green;
+    border: none;
 }
+
+
