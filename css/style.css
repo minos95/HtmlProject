@@ -1,0 +1,21 @@
+#container{
+   margin: 0 auto;
+    background-color: blue;
+    width: 50%;
+    
+}
+#title{
+    text-align: center;
+}
+#description{
+    text-align: center;
+}
+#survey-form{
+    padding: 20px;
+}
+input{
+    width: 100%;
+}
+#submit{
+    
+}
